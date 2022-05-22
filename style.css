@@ -33,7 +33,7 @@ header{
 	font-size: 26px;
 }
 body{
-	background-image: url("image/pepe.png");
+	background-image: url("pepe.png");
 	background-size: 100% 100%;
 	background-attachment: fixed;
 }
