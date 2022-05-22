@@ -1,0 +1,59 @@
+#maket{
+	width:100%;
+	height:100%;
+}
+.menu{
+	font-size: 25px;
+	background-color: #6563d4aa;
+	border-radius: 5px;
+	margin-top: 5px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 10px;
+	text-align: center;
+	border: 2px solid #3f3eabd1;
+}
+header{
+	color: white;
+	font-family:"Calibri";
+	float: left;
+}
+
+#info{
+	font-family:"Calibri";
+	float: middle;
+	margin-top: 5px;
+	background-color:#7895deaa;
+	margin-left: 430px;
+	margin-right: 430px;
+	border-radius: 5px;
+	border: 2px solid #5251c4ec;
+	text-align: center;
+	color: white;
+	font-size: 26px;
+}
+body{
+	background-image: url("image/pepe.png");
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+a>img{
+	width: 38px;
+	float:right;
+}
+footer {
+	position: fixed; 
+	left: 0; 
+	bottom: 0;
+	padding: 10px; 
+	background: #17422386;
+	color: #fff;
+	width: 300px;
+	border-radius: 5px;
+}
+
+
